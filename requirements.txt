@@ -1,0 +1,25 @@
+blinker==1.7.0
+click==8.1.7
+colorama==0.4.6
+# dlib @ file:///dlib-19.22.99-cp310-cp310-win_amd64.whl
+dotenv==0.0.5
+et-xmlfile==1.1.0
+face-recognition==1.3.0
+face_recognition_models==0.3.0
+Flask==3.0.2
+Flask-Cors==4.0.0
+itsdangerous==2.1.2
+Jinja2==3.1.3
+numpy==1.26.4
+opencv-python-headless==4.9.0.80
+openpyxl==3.1.2
+pandas==2.2.1
+pillow==10.2.0
+pipdeptree==2.15.1
+python-dateutil==2.8.2
+python-dotenv==1.0.1
+pytz==2024.1
+six==1.16.0
+tzdata==2024.1
+waitress==3.0.0
+Werkzeug==3.0.1
